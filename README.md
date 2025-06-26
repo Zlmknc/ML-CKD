@@ -10,3 +10,7 @@ In the study;
 * feature extraction with PCA
 9 different machine learning algorithms were evaluated by applying the methods.== 
 The dataset contains 400 samples and 24 attributes. The main purpose of the study is to determine the effective algorithms that can be used in the diagnosis of CKD by determining the prediction model with the highest accuracy rate.
+
+# Getting Starting
+The project, which is planned to obtain 3 different tables, will be carried out in such a way that there will be 3 steps.
+Each step will start with data standardization.
